@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "HTML5  THE CONTRACTOR."
-date:       2017-12-13 21:05:00 +0000
+date:       2017-12-13 16:05:01 -0500
 permalink:  html5_the_contractor
 ---
 
