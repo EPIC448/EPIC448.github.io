@@ -79,19 +79,19 @@ The Delete CRUD action corresponds to the delete controller action,delete '/post
  If we were to draw out the Restful Routes, it would look like this.  Details can be found at (https://learn.co/tracks/full-stack-web-development-v5/sinatra/activerecord/sinatra-restful-routes)
 
 
-```
-HTTPVERB	     ROUTE	                  Action	                        Used For
-
-GET       	     '/posts'	                       index action	         index page to display all posts
-GET              '/posts/new’ 	           New action 	         displays create post form                        
-POST	        '/posts'  	                     create action	         creates one blog post
-GET    	         '/posts/:id'                	 show action  	         displays one blog post based on ID in the url
-GET	             '/posts/:id/edit'	       edit action	         displays edit form based on ID in the url
-PATCH	        '/posts/:id'	                edit action	         edits an existing blog post based on ID in the url
-GET          	   '/posts/:id/update'	 update action	         displays update form blog post based on ID in the url
-PUT	             '/posts/:id'	                  update action	         replaces an existing blog post based on ID in the url
-DELETE	    '/posts/:id/delete'	    delete action	         deletes one blog post based on ID in the url
-```
+> ```
+> HTTPVERB	     ROUTE	                  Action	                        Used For
+> 
+> GET       	     '/posts'	                       index action	         index page to display all posts
+> GET              '/posts/new’ 	           New action 	         displays create post form                        
+> POST	        '/posts'  	                     create action	         creates one blog post
+> GET    	         '/posts/:id'                	 show action  	         displays one blog post based on ID in the url
+> GET	             '/posts/:id/edit'	       edit action	         displays edit form based on ID in the url
+> PATCH	        '/posts/:id'	                edit action	         edits an existing blog post based on ID in the url
+> GET          	   '/posts/:id/update'	 update action	         displays update form blog post based on ID in the url
+> PUT	             '/posts/:id'	                  update action	         replaces an existing blog post based on ID in the url
+> DELETE	    '/posts/:id/delete'	    delete action	         deletes one blog post based on ID in the url
+> ```
 
 
  
