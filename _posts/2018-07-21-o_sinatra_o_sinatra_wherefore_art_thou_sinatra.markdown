@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "O Sinatra, O Sinatra, wherefore art thou Sinatra?"
-date:       2018-07-21 17:26:23 +0000
+date:       2018-07-21 13:26:23 -0400
 permalink:  o_sinatra_o_sinatra_wherefore_art_thou_sinatra
 ---
 
@@ -79,6 +79,7 @@ The Delete CRUD action corresponds to the delete controller action,delete '/post
  If we were to draw out the Restful Routes, it would look like this.  Details can be found at (https://learn.co/tracks/full-stack-web-development-v5/sinatra/activerecord/sinatra-restful-routes)
 
 
+```
 HTTPVERB	     ROUTE	                  Action	                        Used For
 
 GET       	     '/posts'	                       index action	         index page to display all posts
@@ -90,6 +91,7 @@ PATCH	        '/posts/:id'	                edit action	         edits an existin
 GET          	   '/posts/:id/update'	 update action	         displays update form blog post based on ID in the url
 PUT	             '/posts/:id'	                  update action	         replaces an existing blog post based on ID in the url
 DELETE	    '/posts/:id/delete'	    delete action	         deletes one blog post based on ID in the url
+```
 
 
  
