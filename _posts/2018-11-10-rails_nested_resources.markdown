@@ -151,8 +151,8 @@ Highly recommended!!
  Discliamer: Much more details is available in the Flaitron curriculum, This is a simple mental break down of my understanding of the topic.
  
  
- Now Money dance!!!!
-[Money dance](https://i.gifer.com/UcoS.gif)
+ Now for an Epic Money Dance part !!!
+ https://i.gifer.com/UcoS.gif
  
   Cheers 
 	
