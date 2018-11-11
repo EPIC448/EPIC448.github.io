@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Nested Resources"
-date:       2018-11-11 04:04:15 +0000
+date:       2018-11-10 23:04:16 -0500
 permalink:  rails_nested_resources
 ---
 
@@ -152,7 +152,7 @@ Highly recommended!!
  
  
  Now Money dance!!!!
- ![](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwirxc3YusveAhVMhOAKHSulAisQjRx6BAgBEAU&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FInsideGaming%2Fcomments%2F2ce1fc%2Fspooles_money_dance%2F&psig=AOvVaw1kdDZy6rY7D46K_NXkzwQm&ust=1541995339062232http://)
+[Money dance](https://i.gifer.com/UcoS.gif)
  
   Cheers 
 	
