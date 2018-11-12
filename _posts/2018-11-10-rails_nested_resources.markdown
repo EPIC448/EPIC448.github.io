@@ -8,27 +8,29 @@ permalink:  rails_nested_resources
 
 Nested Resources…
  (For The contest of the this blog. Any blog has an Author, Post, and Comments.)
+ 
+ 
 (For better simplification:
- Author has many Posts  
-Posts belong to one Author
-Posts has many Comments)
-
+ Author has many Posts , 
+Posts belong to one Author,
+Posts has many Comments}
 
 
 A.	Why should we care for nested routes?
- Well, going based on the example listed above, Let say we want gains access to be able to access Post of a specific author, Normally this is done through /authors/:id/ and the URL version of it will be 
+ Well, going based on the example listed above, Let say we want gains access to the Post of a specific author, Normally this is done through /authors/:id/ and the URL version of it will be 
 [http://localhost:3000/posts?utf8=%E2%9C%93&author=1&date=&commit=Filter]
 
-⇨	what we want instead is  in the config/routes.rb
+what we want instead  in the config/routes.rb
 
 ⇨	get 'authors/:id/posts'=> Target the posts of a specific author
 
-⇨	get 'authors/:id/posts/:post_id' #target specific post by that the said author.
+⇨	get 'authors/:id/posts/:post_id' #target specific post by that  author.
 
 
 B.	Creating a nested routes
-Then, How do we handle the routes above so we go into the Author controller.
+    Then, How do we handle the routes above so we go into the Author controller.
   app/controller/author_controller
+
 1.	def posts_index
 
 2.	@author = Author.find(params[:id]) # find the  author
@@ -36,17 +38,18 @@ Then, How do we handle the routes above so we go into the Author controller.
 3.	@posts = @author.posts # find the authors post.
 4.	render template: 'posts/index'
 5.	end
-6.	 
-7.	def post
-8.	@author = Author.find(params[:id])
-9.	 
-10.	# Note that because ids are unique by table we can go directly to
-11.	# Post.find — no need for @author.posts.find...
-12.	@post = Post.find(params[:post_id])
-13.	render template: 'posts/show'
-14.	
-15.	end
-16.	
+6.	
+7.	 
+8.	def post
+9.	@author = Author.find(params[:id])
+10.	 
+11.	# Note that because ids are unique by table we can go directly to
+12.	# Post.find — no need for @author.posts.find...
+13.	@post = Post.find(params[:post_id])
+14.	render template: 'posts/show'
+15.	
+16.	end
+
 Notes: Normally, A controller action would normally implicitly render a template with the same name as the method, in this case we want to leverage the templates we're already using for posts, so we call render explicitly with a template path. Because we're telling render that we're using a template [‘posts/show’ & ‘posts/index’], we don't need to include the .html.erb extensions. Rails do this for us…
 
 
@@ -54,7 +57,7 @@ Note: If your IDs are different and you are having trouble with the URLs, try ru
 
 C.	Understand The naming of nested resource URL helpers are named
 
-  As you can imagine. How code is not following the DRY principle,
+  As you can imagine our code is not following the DRY principle,
  Following our code, we can conclude that a Post is a child of an Author… thus,
 has_many :posts
 belongs_to :author
@@ -76,8 +79,9 @@ belongs_to :author
 10.	resources :posts, only: [:index, :show, :new, :create, :edit, :update]…   We added this because we still want people to be able to see all posts, create and edit posts outside the context of the author.
 11.	root 'posts#index'
 12.	end
-13.	
-Note: previously, we made  the adjustment in the author controller, but because we are shooting for the Post of a certain Authors, So to  accommodate for the revamped code, we alter the app/posts_controller to handle the nested resources instead.
+
+
+Note: previously, we made the adjustment in the author controller, but because we are shooting for the Post of a certain Authors, So to  accommodate for the revamped code, we alter the app/posts_controller to handle the nested resources instead.
 
 1.	# app/controllers/posts_controller.rb
 2.	 
@@ -87,8 +91,6 @@ Note: previously, we made  the adjustment in the author controller, but because 
 6.	    else
 7.	      @posts = Post.all
 8.	    end
-
-
 #We added a conditional to the posts#index action to account for whether the user is trying to access the index of all posts (Post.all) or just the index of all posts by a certain author (Author.find(params[:author_id]).posts). 
  we checked to see if the hash has an :author_id key, then perform the following code else show all the post.
 
@@ -137,9 +139,9 @@ With that, we can say,
 7.	<p><%= post.description %></p>
 8.	
 
-This allow the URL to read like book.   author/1/posts = “author number one’s posts”.
+This allows the URL to read like book.   author/1/posts = “author number one’s posts”.
 
-*Clear out the confusion:*
+Clear out the confusion:
 Not sure about  path helpers and what they take as arguments.
 posts_path => Takes no argument because it refers to all of the posts
 post_path(@post) => Takes argument because it referring to a specific post  [ posts/1 as opposed to posts/2.]
@@ -147,14 +149,9 @@ post_path(@post) => Takes argument because it referring to a specific post  [ po
 
 Highly recommended!!
  Never nest a route more than 1 level deep
- 
- Discliamer: Much more details is available in the Flaitron curriculum, This is a simple mental break down of my understanding of the topic.
- 
- 
- Now for an Epic Money Dance part !!!
- https://i.gifer.com/UcoS.gif
- 
-  Cheers 
-	
+
+
+
+
 	sam
 
