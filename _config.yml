@@ -1,15 +1,14 @@
 # Site settings
-title: 
+author: Samuel.Ogundiran
+title: Techuture
 header-img: img/home-bg.png
 email: samrey2018@gmail.com
-copyright_name: EPIC448
+copyright_name: Samuel.Ogundiran
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Slice of  Technology Meets The  Future
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  EPIC448
-learn_profile: EPIC448
-email_username: samrey2018@gmail.com
 
 # Build settings
 markdown: kramdown
