@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "New Age Developer"
-date:       2019-08-18 23:27:10 +0000
+date:       2019-08-18 19:27:11 -0400
 permalink:  new_age_developer
 ---
 
