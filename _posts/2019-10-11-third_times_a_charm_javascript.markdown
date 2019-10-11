@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " Third time's a charm JavaScript."
-date:       2019-10-11 15:19:00 +0000
+date:       2019-10-11 11:19:01 -0400
 permalink:  third_times_a_charm_javascript
 ---
 
