@@ -30,19 +30,20 @@ Any working developer will testify to the Horror of reading a legacy code  that 
 Figuring out what the function, method, and attribute are doing seem foreign. We often want to provide a more complex, stronger, and alluring solution often at the cost for KISS method. While on the other hand, when this method is implemented,  it make for easy  to maintain code with faster implementation. 
 
 > Yagni
-![](http://m.quickmeme.com/img/c8/c8b8b603a9ac0b7dec3a00788dd741806f707ca31831048587608e3f45b1f89d.jpg)
+
 “You aren’t gonna need it” is a principle of extreme programming that states a programmer should not add functionality until deemed necessary. XP co-founder Ron Jeffries has written: “Always implement things when you actually need them, never when you just foresee that you need them.” Other forms of the phrase include “You aren’t going to need it” and “You ain’t gonna need it”.
 — Wikipedia
 
-
+![](http://m.quickmeme.com/img/c8/c8b8b603a9ac0b7dec3a00788dd741806f707ca31831048587608e3f45b1f89d.jpg)
 This was a challenge for me. Instead of focusing on the minimum valuable product(MVP) for this project, I literally spent 2 days mapping out what features I want the App to have, and how it need to tap into an API, Bitcoin features, and my need for its to be before it time. The moral of the YAGNI method suggest that no need to  switch careers to be a Fortune teller attempting to forecast what features the app may possibly need in the future. This leading to adding extra layer of complexity to your program that is not even needed.  So yes, I lowered my ego, and kept it as simple as possible . Using  class components and functional components when needed. And worrying less about adding several implementation of states. 
 
 >** Dry**
-[](https://giphy.com/gifs/gJZodrb2HIiGY/html5)
+
 “Don’t repeat yourself (DRY) is a principle of software development aimed at reducing repetition of software patterns, replacing them with abstractions; and several copies of the same data, using data normalization to avoid redundancy.
 The DRY principle is stated as “Every piece of knowledge must have a single, unambiguous, authoritative representation within a system”. When the DRY principle is applied successfully, a modification of any single element of a system does not require a change in other logically unrelated elements. Additionally, elements that are logically related all change predictably and uniformly, and are thus kept in sync.”
 — Wikipedia
 
+[](https://giphy.com/gifs/gJZodrb2HIiGY/html5)
 
 Dry is one of the most fundamental principle in software development. It goal is to help avoid duplication in any part of your program be it functions, code block or method.  It enable  a more cleaner code.  Dry advocates that duplication is a waste , repeating a process need automation, and repetition in logic need abstractions. For this project, this was exhibited when creating the class  form component for this project.  As a sample it looked something like this. 
 
