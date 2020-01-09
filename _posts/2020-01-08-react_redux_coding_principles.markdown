@@ -20,7 +20,7 @@ Starting out this project, I wanted to make it very complex with different movin
 
 
 > Kiss 
-![](http://images.app.goo.gl/aFnW4EQfKtZignRN6)
+[](https://thumbs.gfycat.com/ZealousSparklingAmericanwarmblood-small.gif)
    “KISS is an acronym for “Keep it simple, stupid” as a design principle noted by the U.S. Navy in 1960. The KISS principle states that most systems work best if they are kept simple rather than made complicated; therefore simplicity should be a key goal in design and unnecessary complexity should be avoided. The phrase has been associated with aircraft engineer Kelly Johnson. Variations on the phrase include: ‘Keep it simple, silly’, ‘keep it short and simple’, ‘keep it simple and straightforward’, ‘keep it small and simple’ and ‘keep it stupid, simple’.”
 — Wikipedia
 
@@ -37,7 +37,7 @@ Figuring out what the function, method, and attribute are doing seem foreign. We
 This was a challenge for me. Instead of focusing on the minimum valuable product(MVP) for this project, I literally spent 2 days mapping out what features I want the App to have, and how it need to tap into an API, Bitcoin features, and my need for its to be before it time. The moral of the YAGNI method suggest that no need to  switch careers to be a Fortune teller attempting to forecast what features the app may possibly need in the future. This leading to adding extra layer of complexity to your program that is not even needed.  So yes, I lowered my ego, and kept it as simple as possible . Using  class components and functional components when needed. And worrying less about adding several implementation of states. 
 
 >** Dry**
-![](https://paulieweb.com/about/slants/img/skele-dry.gif)
+[](https://paulieweb.com/about/slants/img/skele-dry.gif)
 “Don’t repeat yourself (DRY) is a principle of software development aimed at reducing repetition of software patterns, replacing them with abstractions; and several copies of the same data, using data normalization to avoid redundancy.
 The DRY principle is stated as “Every piece of knowledge must have a single, unambiguous, authoritative representation within a system”. When the DRY principle is applied successfully, a modification of any single element of a system does not require a change in other logically unrelated elements. Additionally, elements that are logically related all change predictably and uniformly, and are thus kept in sync.”
 — Wikipedia
