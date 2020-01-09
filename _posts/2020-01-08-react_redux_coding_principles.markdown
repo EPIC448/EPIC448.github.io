@@ -21,7 +21,7 @@ Starting out this project, I wanted to make it very complex with different movin
 
 > Kiss 
 ![]
-(https://giphy.com/gifs/Nydo55HzhyGqI/html5)
+(https://media.giphy.com/media/l41lK4KlwYYYSSKFG/giphy.gif)
    “KISS is an acronym for “Keep it simple, stupid” as a design principle noted by the U.S. Navy in 1960. The KISS principle states that most systems work best if they are kept simple rather than made complicated; therefore simplicity should be a key goal in design and unnecessary complexity should be avoided. The phrase has been associated with aircraft engineer Kelly Johnson. Variations on the phrase include: ‘Keep it simple, silly’, ‘keep it short and simple’, ‘keep it simple and straightforward’, ‘keep it small and simple’ and ‘keep it stupid, simple’.”
 — Wikipedia
 
@@ -33,8 +33,8 @@ Figuring out what the function, method, and attribute are doing seem foreign. We
 
 “You aren’t gonna need it” is a principle of extreme programming that states a programmer should not add functionality until deemed necessary. XP co-founder Ron Jeffries has written: “Always implement things when you actually need them, never when you just foresee that you need them.” Other forms of the phrase include “You aren’t going to need it” and “You ain’t gonna need it”.
 — Wikipedia
+[](https://media.giphy.com/media/gJZodrb2HIiGY/giphy.mp4)
 
-![](http://m.quickmeme.com/img/c8/c8b8b603a9ac0b7dec3a00788dd741806f707ca31831048587608e3f45b1f89d.jpg)
 This was a challenge for me. Instead of focusing on the minimum valuable product(MVP) for this project, I literally spent 2 days mapping out what features I want the App to have, and how it need to tap into an API, Bitcoin features, and my need for its to be before it time. The moral of the YAGNI method suggest that no need to  switch careers to be a Fortune teller attempting to forecast what features the app may possibly need in the future. This leading to adding extra layer of complexity to your program that is not even needed.  So yes, I lowered my ego, and kept it as simple as possible . Using  class components and functional components when needed. And worrying less about adding several implementation of states. 
 
 >** Dry**
@@ -43,7 +43,7 @@ This was a challenge for me. Instead of focusing on the minimum valuable product
 The DRY principle is stated as “Every piece of knowledge must have a single, unambiguous, authoritative representation within a system”. When the DRY principle is applied successfully, a modification of any single element of a system does not require a change in other logically unrelated elements. Additionally, elements that are logically related all change predictably and uniformly, and are thus kept in sync.”
 — Wikipedia
 
-[](https://giphy.com/gifs/gJZodrb2HIiGY/html5)
+[](https://media.giphy.com/media/gJZodrb2HIiGY/giphy.gif)
 
 Dry is one of the most fundamental principle in software development. It goal is to help avoid duplication in any part of your program be it functions, code block or method.  It enable  a more cleaner code.  Dry advocates that duplication is a waste , repeating a process need automation, and repetition in logic need abstractions. For this project, this was exhibited when creating the class  form component for this project.  As a sample it looked something like this. 
 
@@ -121,16 +121,20 @@ export default Form
 Focus: on the handleChange part of the code.  Without adherence to the Dry Principle, That code will look like this.
 
 
-`handleFirstNameChange = event => {
+```
+handleFirstNameChange = event => {
     this.setState({
       firstName: event.target.value
     })
   }
+```
  
+```
   handleLastNameChange = event => {
     this.setState({
       lastName: event.target.value
-`
+
+```
 
 
 So as you can see, Dry is very important in code, Else, we will have multiple functions, methods, re-writeing what were already wrote (a.k.a WET) Write Cverything Twice. 
