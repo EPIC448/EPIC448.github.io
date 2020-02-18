@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "BlockChain VS Regular WEB"
-date:       2020-02-18 01:35:35 +0000
+date:       2020-02-17 20:35:36 -0500
 permalink:  blockchain_vs_regular_web
 ---
 
-
+BlockChain for Developer Series
 
 BlockChain are blocks that contains information with each  block connecting to the block before and after it. Can be used to track or  store anything like valuable like money to medical records, and even personal Information .  when a new information is added or the previous information is alter, a new block is created.
 
@@ -17,5 +17,5 @@ BlockChain are blocks that contains information with each  block connecting to t
 
 Blockchain is the engine that allow Bitcoin to run.  With peer- to- peer network of nodes or computers that talk to each other distributed all over the BlockChain network . All the Nodes on the BlockChain network contains a copy of all the code on the network which are bundle together in blocks that are chained together which make the BlockChain. This collections of nodes work together  to make sure that the code on the blockchain are not changeable making it secure. 
 
-Next we cover the Importance of BlockChain. 
+Next we cover the Importance of BlockChain in the Next Post
 
