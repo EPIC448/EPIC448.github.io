@@ -27,7 +27,5 @@ be added to the blockChain, thus rejecting the contract.
 *  Because of the peer-to-peer nature of BlockChain, transaction are free. This means, that we don't have to pay for things like transaction fee at the Bank or ATM, or  Train tickets or Plane ticket because the middle man is removed which in this case are the fee processing companies, even the huge ones like PayPal. 
 
 
-KEEP YOUR EYE PEEL: 
- 
-    ![Keep your Eye Peel](https://media.giphy.com/media/1WYdSUcb0o64g/giphy.gif) For the Next one, where we dive Deep into BlockChain and Share my Journey with you. 
+KEEP YOUR EYE PEEL......  ![Keep your Eye Peel](https://media.giphy.com/media/1WYdSUcb0o64g/giphy.gif) For the Next one, where we dive Deep into BlockChain and Share my Journey with you. 
 
