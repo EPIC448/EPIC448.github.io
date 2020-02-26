@@ -6,7 +6,9 @@ permalink:  why_is_blockchain_important_now_thought_you_never_ask
 ---
 
 
-![BlockChain](https://media.giphy.com/media/Xtg9ygGsjvouF7vZ1w/giphy.gif)
+![](https://media.giphy.com/media/Xtg9ygGsjvouF7vZ1w/giphy.gif)
+
+
 
 
 
