@@ -8,6 +8,8 @@ permalink:  why_is_blockchain_important_now_thought_you_never_ask
 
 ![BlockChain](https://media.giphy.com/media/Xtg9ygGsjvouF7vZ1w/giphy.gif)
 
+
+
 Few Reason. 
 
 The content of your blog post goes here.
