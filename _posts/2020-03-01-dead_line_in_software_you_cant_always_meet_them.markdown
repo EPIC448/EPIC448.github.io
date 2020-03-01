@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Dead line in Software.  (You cant always meet them)"
-date:       2020-03-01 22:44:09 +0000
+date:       2020-03-01 17:44:10 -0500
 permalink:  dead_line_in_software_you_cant_always_meet_them
 ---
 
@@ -15,7 +15,7 @@ Often, when I explained software development to my non-coder friends, I tell the
 
 Coding in software take a lot of complex thinking to make the process very simple. Your job as a web developer is to anticipate a lot of moving part such as: what the server will be doing, what responds do you get when you make a AJAX requests, what the user will see, and what language to use. This part may seem easy to do, but often take days if not weeks to get them to work together. And it might still not function as expected.  :)
 
-# Monkey  Wrench in Coding 
+***Monkey  Wrench in Coding ***
 ![](https://media.giphy.com/media/1KKO9Mw5YlTMc/giphy.gif)
 
 Some Issue that were un-anticipated may crop up such as: but not limited to:
@@ -35,8 +35,8 @@ Internet / computer crash/ Slow wifi  [Every developers and college student Nigh
 
 
 
-Great Great solution.
-
+***Great Great solution.
+***
 ![](https://media.giphy.com/media/l0HlxNa8ng5AQ0IhO/giphy.gif)
 
  School is the only place google is not allowed on a research paper to solve a problem. In the developer world, Google, Stack Overflow, and documentations are your bread and butter. USE THEM.
