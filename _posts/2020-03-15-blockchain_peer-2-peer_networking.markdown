@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " BlockChain Peer-2-Peer Networking."
-date:       2020-03-16 01:12:43 +0000
+date:       2020-03-15 21:12:44 -0400
 permalink:  blockchain_peer-2-peer_networking
 ---
 
