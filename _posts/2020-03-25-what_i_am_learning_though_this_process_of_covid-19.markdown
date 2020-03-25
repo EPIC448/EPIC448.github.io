@@ -11,7 +11,7 @@ This blog is based on my personal observation in regards to  Covid-19 a
  
 Thus, bringing business owner  to a fork in the road of  keeping employees or letting them go to keep the doors open. BY default,  online application process is unprecedented at this moment as millions of people  that were let go are looking for a job. This make it harder for graduates like myself to standout in a sea of online applicants. All this leads me to ask question as a Flatiron School graduates, What can I be done to put myself in the best position for a job since we all are isolated at the moment.
 
-  IMAGE:  Wash your Dem hands….. lol
+ 
 
 	
 [](https://media.giphy.com/media/UoYA5jnXE5V7u4MJh7/giphy.gif )
