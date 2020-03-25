@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "What I am Learning though this process of Covid-19."
-date:       2020-03-25 22:50:20 +0000
+title:      "What I am Learn & Job Search though this process of Covid-19."
+date:       2020-03-25 18:50:21 -0400
 permalink:  what_i_am_learning_though_this_process_of_covid-19
 ---
 
@@ -21,7 +21,7 @@ Thus, bringing business owner  to a fork in the road of  keeping employees or
 
 * Schedule out you days even down to the minute if possible. 
 
-*  Online application is at it worst as allotted to above. Using personal  connections through LinkedIn, family members, Zoom chats and attending Webinar is a great tool to stand out during this times as you will have a better chance of being referred to someone else through a connection. 	
+*  Online application is at it worst as allotted to above. Using personal  connections through LinkedIn, family members, Zoom chats and attending Webinar is a great tool to stand out during this times as you will have a better chance of being referred to someone else through a connection.&#x2028;	
 *  Practicing your coding skills becomes more important than ever as you will be completing against new graduates and veteran in your field . This is best done by building a value validation project. This is a project simply indicating to your future employer with you can do and are will to do for the company.
 *  Showing empathy to your Hiring manager . In your communication, highlight the fact that you understand this are challenging times and hope them and there family are save.
 *
