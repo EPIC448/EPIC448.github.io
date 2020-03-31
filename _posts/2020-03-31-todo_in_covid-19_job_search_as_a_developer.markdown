@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Todo in Covid-19 job search as a Developer"
-date:       2020-03-31 21:11:12 +0000
+date:       2020-03-31 17:11:13 -0400
 permalink:  todo_in_covid-19_job_search_as_a_developer
 ---
 
