@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " Anticipate New World After Covid-19 (part 1)"
-date:       2020-04-08 17:28:27 +0000
+date:       2020-04-08 13:28:28 -0400
 permalink:  anticipate_new_world_after_covid-19_part_1
 ---
 
