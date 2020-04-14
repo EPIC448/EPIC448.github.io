@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " Covid-19 Job search. What is a Developer to do?"
-date:       2020-04-14 13:34:34 +0000
+date:       2020-04-14 09:34:35 -0400
 permalink:  covid-19_job_search_what_is_a_developer_to_do
 ---
 
