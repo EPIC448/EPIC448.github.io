@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Software Program manager  (Is it for you, Let find out)"
-date:       2020-05-05 19:40:28 +0000
+title:      "Software Program manager  (Is it for you, Let's find out)"
+date:       2020-05-05 15:40:29 -0400
 permalink:  software_program_manager_is_it_for_you_let_find_out
 ---
 
