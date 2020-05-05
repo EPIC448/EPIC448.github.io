@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: samrey2018@gmail.com
 copyright_name: Samuel.Ogundiran
 description: > # this means to ignore newlines until "baseurl:"
-  A Slice of  Technology Meets The  Future
+  A Slice of  Technology Meets The  Future/ Array of Other Topics
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  EPIC448
