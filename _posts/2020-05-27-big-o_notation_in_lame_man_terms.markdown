@@ -12,7 +12,7 @@ permalink:  big-o_notation_in_lame_man_terms
  
  For the non tech enthusiast here, Big O can be considered the measuring of the  "Horse-power "in your coded algorithm. In insight,  you can have 2 codes side to side and they both solve same issue which may seem unimportant. But when you start working with large data sets, this becomes very important to the developer, shareholders and even you're server provided. If I have lost you, there is more to come later on. 
 
-"Big O notation (with a capital letter O, not a zero), also called Landau's symbol, is a symbolism used in complexity theory, computer science, and mathematics to describe the asymptotic behavior of functions. Basically, it tells you how fast a function grows or declines." 
+> "Big O notation (with a capital letter O, not a zero), also called Landau's symbol, is a symbolism used in complexity theory, computer science, and mathematics to describe the asymptotic behavior of functions. Basically, it tells you how fast a function grows or declines." 
     ' According to  "https://web.mit.edu/16.070/www/lecture/big_o.pdf"
 
    Lame terms: Big O is the horsepower in you code, kinda!!!  As most cars are categories by the amount of horse power they produce. Big O is like that but cooler in that  it combines a lot of components with it. And you don’t need a car or a mechanical team to make it work.
@@ -59,7 +59,9 @@ This article does not cover time and space complexity as this are important topi
 
 **resources**:
   https://web.mit.edu/16.070/www/lecture/big_o.pdf
+	
 https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
+
 https://www.tutorialspoint.com/time-and-space-complexity-in-data-structure
 
 
