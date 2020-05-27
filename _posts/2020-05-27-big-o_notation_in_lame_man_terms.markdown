@@ -29,11 +29,11 @@ permalink:  big-o_notation_in_lame_man_terms
 
 
 
- **where **:  
+ **where **
  
    Often can be found in a code base, It is a way to quantify how efficient our code is. And this can be the difference between a code execution that run for 5 seconds or  1 hour. Which is a big difference. Also, the memory and storage required for the code to run often is the difference maker between a company or business owner paying thousand or millions of dollars for this services i.e amazon clouds, or Google clouds to name a few.
 
-**Cruzando: **
+**Cruzando **
 
   For a regular non-developer, this article may not make  much sense to you which is okay. However, Big O affects you too. How you ask? 
 
