@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Big-O Notation in lame man terms."
-date:       2020-05-27 21:07:11 +0000
+date:       2020-05-27 17:07:12 -0400
 permalink:  big-o_notation_in_lame_man_terms
 ---
 
