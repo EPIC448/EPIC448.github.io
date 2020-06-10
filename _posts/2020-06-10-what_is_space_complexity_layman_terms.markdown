@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "What is Space Complexity? Layman terms  .."
-date:       2020-06-10 21:33:27 +0000
+date:       2020-06-10 17:33:28 -0400
 permalink:  what_is_space_complexity_layman_terms
 ---
 
- 
+&#x2028;
 Space complexity is the total amount of memory space used by an algorithm/program including the space of input values for execution. So to find space complexity, it is enough to calculate the space occupied by the variables used in an algorithm/program. Often, people confuse Space complexity with Auxiliary space. Auxiliary space is just a temporary or extra space and it is not the same as space complexity. In simpler terms.
 Space Complexity = Auxiliary space + Space use by input values
 
@@ -22,7 +22,7 @@ Space Complexity = Auxiliary space + Space use by input values
  In this situation looking through the space-complexity perspective, the easy bake oven is the algorithm that  “makes the pie”. The oven takes up a section or a part of your room just as an algorithm take up a space in your “computer memory”, It is much deeper than this, but let just use your computer for now.  Safe to assume that the amount of pies baked would not change the size of the oven. This is what we call the Auxiliary Space. As in no matter what happens, the size of the algorithm stay constant. 
 
 
-Going back  to our scenario, an easy bake oven is useless without doing its job of baking food, an item or a product.  The size of the pie inserted into the oven is correlated with the size of the pie that comes out.  For all the chefs reading this, I know there are yeast involved, raising of the dough and all. For all tense purposes, we can assume that  once the pie is done, it need to be laid down somewhere to cool down and be counted to determine the total amount of pie baked. In this example, the amount of space taking up in your room by our "preverbal" baked / ready to count pies is  considers space used by input value.  Simply put, the larger the amount of value inputted into the algorithm equals the amount of space needed for the output or final results depending  on how much the input is manipulated going through the algorithm .  This can also impact how fast or slow a program runs. 
+Going back  to our scenario, an easy bake oven is useless without doing its job of baking food, an item or a product.  The size of the pie inserted into the oven is correlated with the size of the pie that comes out.  For all the chefs reading this, I know there are yeast involved, raising of the dough and all. For all tense purposes, we can assume that  once the pie is done, it need to be laid down somewhere to cool down and be counted to determine the total amount of pie baked. In this example, the amount of space taking up in your room by our "preverbal" baked / ready to count pies is  considers space used by input value.  Simply put, the larger the amount of value inputted into the algorithm equals the amount of space needed for the output or final results depending  on how much the input is manipulated going through the algorithm .  This can also impact how fast or slow a program runs.&#x2028;
 
 *Important Note:*  The best algorithm/program should have the lease space complexity. The lesser the space used, the faster it executes.
 
@@ -41,7 +41,7 @@ Similar to Time Complexity, Space complexity also plays a crucial role in determ
 Algorithm Tradeoffs
 With previous information, we can determine that space and time complexity play a huge part in The efficiency of an algorithm. the holy grail of algorithm is one that is taking less time and less space, but that is a unicorn. There is a trade-off between time and space. If you want to reduce the time, then space might increase.
  ![](https://media.giphy.com/media/xT9IgusfDcqpPFzjdS/giphy.gif)
-Similarly, if you want to reduce the space, then the time may increase. So, you have to compromise with either space or time.  If I have lost you by now, we covered Time complexity last week , go  check out that article. (http://techuture.com/time_complexity_mask_party_humanbrain_smh
+Similarly, if you want to reduce the space, then the time may increase. So, you have to compromise with either space or time.  If I have lost you by now, we covered Time complexity last week , go  check out that article. [Time Complexity](http://techuture.com/time_complexity_mask_party_humanbrain_smh
 )
 
 
