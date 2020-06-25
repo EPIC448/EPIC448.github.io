@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Solving algorithm Problem and pattern. Frequency Counter LayMan Terms. "
-date:       2020-06-25 13:32:18 +0000
+date:       2020-06-25 09:32:19 -0400
 permalink:  solving_algorithm_problem_and_pattern_frequency_counter_layman_terms
 ---
 
@@ -13,9 +13,9 @@ permalink:  solving_algorithm_problem_and_pattern_frequency_counter_layman_terms
 
   ![](https://media.giphy.com/media/lz9lPkqddgoec/giphy.gif)
 
-**Pitcure This **:
+**Pitcure This** 
 
-    You are a college student tasked with finding the 3 textbook for a course that you're would  be taking. The caveat is you need to find this text book in a brick and mortar stores with there prices, then find the same book online for half of the price of the brick and mortar store. Also, you are to keep track of the number of time you find the same price for both online and brick and mortar store.   
+  You are a college student tasked with finding the 3 textbook for a course that you're would  be taking. The caveat is you need to find this text book in a brick and mortar stores with there prices, then find the same book online for half of the price of the brick and mortar store. Also, you are to keep track of the number of time you find the same price for both online and brick and mortar store.   
   
 **Rant**: 
 > College textbook are pure scam. You mean to tell me that there is a new edition every 24 month with 2-3 new pages added. And I have to pay $200+ for a new edition of the same book purchased at the school book store  that I would only use 3 times a year in the same class. And I can’t even get my money back because the same book returned to the same school book store would offer you $35.98  for the same book they sold you 2 months ago..SMH. 
