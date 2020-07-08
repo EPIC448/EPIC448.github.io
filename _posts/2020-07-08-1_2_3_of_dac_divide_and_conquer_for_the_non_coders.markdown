@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "1,2,3 of DAC(Divide and Conquer ) For the non coders.  "
-date:       2020-07-08 13:55:10 +0000
+date:       2020-07-08 09:55:11 -0400
 permalink:  1_2_3_of_dac_divide_and_conquer_for_the_non_coders
 ---
 
@@ -40,9 +40,9 @@ Now you may not like what you have read so far due to little programming experie
 
 
 
-** Why does it break down in parts? **
+* Why does it break down in parts? *
 
-Image …    Why.
+![](https://media.giphy.com/media/IaztG2U4LddJJhv0ra/giphy.gif)
  
    Great question!!!!  If DAC was a person, her  favorite quote would be:
 	 
