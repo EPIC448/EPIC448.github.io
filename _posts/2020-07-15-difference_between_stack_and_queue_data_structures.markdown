@@ -1,18 +1,18 @@
 ---
 layout: post
 title:      "Difference between Stack and Queue Data Structures"
-date:       2020-07-15 20:19:09 +0000
+date:       2020-07-15 16:19:10 -0400
 permalink:  difference_between_stack_and_queue_data_structures
 ---
 
 
 #  Queues
-####  Layman Terms Queues.   
+####  Layman Terms Queues. &#x2028; 
 
  There you are on a “Hot” summer day. And a friend felt your pain and bought you an Ice-cream to quench your thirst. 
  
 
-![](https://media.giphy.com/media/61nocPZboqCGI/giphy.gif))
+![](https://media.giphy.com/media/61nocPZboqCGI/giphy.gif)
 
  As you commence your assault on this delicious gift. You go for the last scoop of screen on the “Top” of the cone to the bottom like a normal person not like aunt Barry that eat the bottom of the ice cream cone first.
  
@@ -34,7 +34,7 @@ The insertion of an element into stack is called push operation [just as we us
 Stack half brother “Queue" is a linear data structure as well, 
 however, queue follows a different  principle formally know as (FIFO (First In First Out)). 
 
-#### Layman terms (Just like the  queue at a Walmart store,)#### 
+#### Layman terms (Just like the  queue at a Walmart store,)
 
 it wasn’t long ago that some of you reading this we're fighting at Walmart over paper towel.(yes!!! you know yourself, I saw you)lol.
 
@@ -53,7 +53,7 @@ In case of Queue, Its elements can be inserted only from one side of the list ca
 The insertion of an element in a queue is called an enqueue operation and the deletion of an element is called a dequeue operation. In queue we always maintain two pointers, one pointing to the element which was inserted at the first and still present in the list with the front pointer and the second pointer pointing to the element inserted at the last with the rear pointer.
 
 
-In Conclusion, This is just a quick over view of how Stacks and Queues works in programming with non-coders in mind. Feel free to share your thoughts.  
+In Conclusion, This is just a quick over view of how Stacks and Queues works in programming with non-coders in mind. Feel free to share your thoughts. &#x2028;
 
 Cheers
 
