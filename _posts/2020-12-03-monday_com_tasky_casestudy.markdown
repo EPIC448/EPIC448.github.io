@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "monday.Com Tasky caseStudy"
-date:       2020-12-03 13:44:55 +0000
+date:       2020-12-03 08:44:56 -0500
 permalink:  monday_com_tasky_casestudy
 ---
 
@@ -58,5 +58,24 @@ Tasky was targeted toward Monday.com platform users ranging from small start- up
 **Hypothesis:** We believe Tasky will achieve making personal subtask easier to track . In addition, the private sub task feature allows users to list individual tasks that need to be performed in completing a project and they can check off the task upon completion.
  
 We believe Tasky would increase adherence to Project timeline, and help teammates be focused on the main task as they don't have to leave the platform to accomplish this. Also, this would increase revenue for Monday.com as current users on the platform would spend more time using the Tasky app and non-monday.com members are required to create an account to have access to the Tasky feature.
+
+
+**References**
+
+Built With
+React.js
+React Select
+React Beautiful Dnd
+monday.com
+
+**Try it out**
+
+ [Repo](https://github.com/wyao905/tasky)
+
+[Install Link](https://auth.monday.com/oauth2/authorize?client_id=cdd1875ed0b3a4086cbe66cf06fdf08c&response_type=install)
+
+[Video](https://www.youtube.com/watch?v=VC7ZrhEbBtY)
+
+
  
 
