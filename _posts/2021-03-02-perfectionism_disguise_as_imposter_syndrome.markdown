@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Perfectionism disguise as imposter syndrome"
-date:       2021-03-02 17:53:43 +0000
+date:       2021-03-02 12:53:44 -0500
 permalink:  perfectionism_disguise_as_imposter_syndrome
 ---
 
@@ -42,7 +42,7 @@ If this is still unclear, what I am proposing is that our perfectionist behavior
 
  There are certain traits I noticed in myself when taking on a new project or working with a group of people that often slips out as imposter syndrome, but thanks to some psychology training and background, I picked up some undercurrent regarding this matter. Maybe you can relate, Please write to me if this is accurate for you.
  
- ### Unpopular traits of perfectionism in  developer (and other professions) that often manifest as Imposter syndrome. 
+ ###  Unpopular traits of perfectionism in  developer (and other professions) that often manifest as Imposter syndrome. 
 
 
 *Refusal to ask  for help:  
