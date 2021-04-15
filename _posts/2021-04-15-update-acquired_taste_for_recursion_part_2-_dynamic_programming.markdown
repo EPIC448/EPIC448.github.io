@@ -238,8 +238,8 @@ With the computed results stored in a HashMap, our function checks the HashMap t
  
 #### Fibonacci Code Skeleton
 
-```
 
+```
 
 function fib(n, hashMap = {}){
 
@@ -247,14 +247,15 @@ function fib(n, hashMap = {}){
  else
  return  // recursive code i.e  fib(n-1, hashMap) + fib(n-2,hashMap)
  
-}
-
+   }
 ```
 
 
 
  
 Using sample of  code from earlier.
+
+
 
 ```
 
@@ -272,6 +273,8 @@ const fib =(n) => {
 
 
 ```
+
+
 
 ----------------- RefactorCode using Memorizations-------------------------
 
