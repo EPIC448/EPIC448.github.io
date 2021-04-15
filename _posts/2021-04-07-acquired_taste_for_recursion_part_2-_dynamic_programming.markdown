@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " Acquired Taste for Recursion Part 2- Dynamic Programming"
-date:       2021-04-07 22:20:13 +0000
+date:       2021-04-07 18:20:13 -0400
 permalink:  acquired_taste_for_recursion_part_2-_dynamic_programming
 ---
 
@@ -239,6 +239,7 @@ With the computed results stored in a HashMap, our function checks the HashMap t
 
 ```
 
+
 function fib(n, hashMap = {}){
 
   if n <=2 return 1// base case
@@ -250,10 +251,12 @@ function fib(n, hashMap = {}){
 ```
 
 
+
  
 Using sample of  code from earlier.
 
 ```
+
 const fib =(n) => {
   
   if (n == 0 || n == 1) return n //base case
@@ -276,7 +279,9 @@ Note: Memorization is labeled  memo in the function
 Javascript Implementation
 
 ```
+
 function fib(n, memo = [ ]){
+
     //     Check if we the computed  in our  Memo
 
 		
@@ -303,6 +308,7 @@ function fib(n, memo = [ ]){
      console.log(fib(40))
 		 
 		 ```
+		 
 		 
 There you have it folks, JavaScript is an awesome language, and this are just my thought and understanding on some concepts that are simple, but often explained with a lot of confusion.  Look out for the three part of this article to wrap up recursion. 
 
