@@ -226,10 +226,11 @@ Remember we are solving for  fib(n-2) and fib(n-1) lines of code. We need a way 
 
 Ironically enough, the quantity of redundant code appears in a fibonacci sequence. This means that if we can assume the following:
 
+```
 if we call fibonacci(7), we will be calling fibonacci(2) 8 times.
 if we call fibonacci(8), we will be calling fibonacci(2) 13 times
 if we call fibonacci(9), we will be calling fibonacci(2) 21 times
-
+```
 
 With the computed results stored in a HashMap, our function checks the HashMap to see if fib(n)  for specific numbers (n) has been computed. Those numbers are stored as Keys with the computed result stored as values to those keys and If it is not, then the unfound key in the HashMap would be computed and its result will be stored in the HashMap for the next iteration. 
 
@@ -279,7 +280,6 @@ Note: Memorization is labeled  memo in the function
 Javascript Implementation
 
 ```
-
 function fib(n, memo = [ ]){
 
     //     Check if we the computed  in our  Memo
@@ -306,10 +306,11 @@ function fib(n, memo = [ ]){
          return result
     }
      console.log(fib(40))
-		 
 		 ```
 		 
 		 
+
+
 There you have it folks, JavaScript is an awesome language, and this are just my thought and understanding on some concepts that are simple, but often explained with a lot of confusion.  Look out for the three part of this article to wrap up recursion. 
 
 #####  Resources:
