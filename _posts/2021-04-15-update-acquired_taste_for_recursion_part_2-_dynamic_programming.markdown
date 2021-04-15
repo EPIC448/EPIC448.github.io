@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " Update-Acquired Taste for Recursion Part 2- Dynamic Programming"
-date:       2021-04-15 22:13:32 +0000
+date:       2021-04-15 18:13:32 -0400
 permalink:  update-acquired_taste_for_recursion_part_2-_dynamic_programming
 ---
 
@@ -281,10 +281,6 @@ Javascript Implementation
 
 ```
 function fib(n, memo = [ ]){
-
-    //     Check if we the computed  in our  Memo
-
-		
      if(memo[n] != null){
        return memo[n]
        }    
