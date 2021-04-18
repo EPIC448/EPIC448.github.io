@@ -6,8 +6,15 @@ permalink:  acquired_taste_for_recursion_part_2-_dynamic_programming
 ---
 
 
-  The last post I shared about recursion may have you jumping out of your seats, but however, I will say not so fast. 
+*Apologies: It has come to my attention that some of the formatting for the code snippets for this post did not render as expected. I have attempted several fix, but to no avail. Trust, that I am looking for a better platform to bring you this information. Sorry for the inconvenience*  
+	
+	
+**Let begin: **
+
+The last post I shared about recursion may have you jumping out of your seats, but however, I will say not so fast. 
 Did you know that recursion can slow your code down? No that is not a typo. 
+
+
 
 The fact of the matter is, recursion opens up a  new world to us and while it can solve a ton of problems, it can certainly create new ones as well.  Lucky us, some of these issues can be avoided. And, don't worry, some of this approach will be simple to implement
 
